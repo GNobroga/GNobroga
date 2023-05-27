@@ -2,29 +2,22 @@
 
 Hello, my name is Gabriel Cardoso Girarde and I'm in the fifth period of Information Systems. I love technology and I'm always seeking to acquire more knowledge. ✌️
 
-````java
+```java
 
-    public void HelloWorld() {
-        interface  HelloWorldInterface { void action(); };
+    public void invokeHelloWorld() {
+        interface  HelloWorldInterface<T> { <T> void action(T t); };
 
-        HelloWorldInterface hwi = this::implementation;
+        HelloWorldInterface<String> hwi = v -> System.out.println(v);
 
-        hwi.action(); // Hello World, I`m here!;
+        hwi.action(getHelloWorld); // Output: Hello World, I`m here!;
     }
 
-    public void implementation() {
+    public String getHelloWorld() {
         final byte bytes[] = { 72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100, 44, 32, 73, 39, 109, 32, 104, 101, 114, 101, 33 };
-
-        new Thread(() -> {
-            int quantifier = 0;
-            for (byte value: bytes) {
-                System.out.print((char) value);
-                Thread.sleep(60 * quantifier++);
-            }
-        }).start();
+        return Stream.of(bytes).map( value -> Character.toString((char) value)).collect(Collectors.joining());
     }
 
-````
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula)
 
