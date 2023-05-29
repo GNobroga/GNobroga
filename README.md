@@ -41,6 +41,14 @@ Hello, my name is Gabriel Cardoso Girarde and I'm in the fifth period of Informa
 </div>
 <br/>
 
+<hr/> 
+
+ [![Snake Animation](https://github.com/GNobroga/GNobroga/blob/main/snake.svg)](https://github.com/Platane/snk)
+ 
+ <hr/> 
+
 <blockquote>
     Never give up on what you believe in, even if the world tells you they're just silly dreams
 </blockquote>
+
+
