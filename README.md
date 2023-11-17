@@ -1,10 +1,10 @@
-# Welcome to my profile
+# Bem-vindo ao meu perfil ✌️
 
-Hello, my name is Gabriel Cardoso Girarde and I'm in the fifth period of Information Systems. I love technology and I'm always seeking to acquire more knowledge. ✌️
+Meu nome é Gabriel, sou fascinado em tecnologia e gosto de aprender as novidades relacionadas a esse meio. Atualmente, estou no sexto período do curso de Sistemas de Informação oferecido pelo IFES - Campus de Cachoeiro de Itapemirim. Ao longo da gradução eu pude experiementar diversas tecnologias e participei de projetos que me fizeram aperfeiçoar algumas habilidades relacionadas a desenvolvimento de sistemas web. Eu já tive contato com HTML, CSS, JavaScript, Angular, React, Java, JPA, Hibernate, Spring Boot, NodeJS, Typescript, C#, Asp .NET e diversas outras tecnologias.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula)
 
-## Technologies I use in my daily life
+## Tecnologias usadas por mim
 <br/>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
@@ -31,7 +31,7 @@ Hello, my name is Gabriel Cardoso Girarde and I'm in the fifth period of Informa
  <hr/> 
 
 <blockquote>
-    Never give up on what you believe in, even if the world tells you they're just silly dreams
+    Sempre tenha fé!
 </blockquote>
 
 
