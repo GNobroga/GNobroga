@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil ✌️
 
-Meu nome é Gabriel, sou fascinado em tecnologia e gosto de aprender as novidades relacionadas a esse meio. Atualmente, estou no sexto período do curso de Sistemas de Informação oferecido pelo IFES - Campus de Cachoeiro de Itapemirim. Ao longo da gradução eu pude experiementar diversas tecnologias e participei de projetos que me fizeram aperfeiçoar algumas habilidades relacionadas a desenvolvimento de sistemas web. Eu já tive contato com HTML, CSS, JavaScript, Angular, React, Java, JPA, Hibernate, Spring Boot, NodeJS, Typescript, C#, Asp .NET e diversas outras tecnologias.
+Meu nome é Gabriel, sou fascinado em tecnologia e gosto de aprender as novidades relacionadas a esse meio. Atualmente, estou no sexto período do curso de Sistemas de Informação oferecido pelo IFES - Campus de Cachoeiro de Itapemirim. Ao longo da gradução eu pude experiementar diversas tecnologias e participei de projetos que me fizeram aperfeiçoar algumas habilidades relacionadas a desenvolvimento de sistemas web. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula)
 
-## Tecnologias usadas por mim
+## Conhecimentos
 <br/>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
