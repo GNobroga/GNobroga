@@ -23,7 +23,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 ## Conecte-se Comigo
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
-- [[Youtubel](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)]
+- [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
 
 Mantenha-se atualizado com as novidades no meu perfil! 😊
 
