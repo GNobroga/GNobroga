@@ -15,11 +15,11 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 <hr/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
 </a>
 
 ## Tecnologias
-- 🚀 HTML, CSS, JavaScript, Java, C# .NET 7, Angular, React, Redux, Spring Boot, JPA, Hibernate, Docker, Identity, Entity Framework, Asp Net, Bootstrap, Razor.
+- 🚀 HTML, CSS, JavaScript, Java, C# .NET 7, Angular, React, Rdux, Spring Boot, JPA, Hibernate, Docker, Identity, Entity Framework, Asp Net, Bootstrap, Razor.
 
 ## Conecte-se Comigo
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
