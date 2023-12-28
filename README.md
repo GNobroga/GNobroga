@@ -19,7 +19,24 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 </a>
 
 ## Tecnologias
-- 🚀 HTML, CSS, JavaScript, Java, C# .NET 7, Angular, React, Rdux, Spring Boot, JPA, Hibernate, Docker, Identity, Entity Framework, Asp Net, Bootstrap, Razor.
+-   HTML
+-   CSS
+-   JavaScript
+-   Typescript
+-   Java
+-   C#
+-  .NET 7
+-   Angular
+-   React
+-   Redux
+-   Spring Boot
+-   JPA
+-   Docker
+-   Identity
+-   Entity Framework
+-   Asp Net
+-   Bootstrap
+-   Razor
 
 ## Conecte-se Comigo
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
