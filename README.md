@@ -18,7 +18,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
 </a>
 
-## Tecnologias
+## Tecnologias que já tive contato
 -   HTML
 -   CSS
 -   JavaScript
