@@ -11,7 +11,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
   </a>
 </div>
 
