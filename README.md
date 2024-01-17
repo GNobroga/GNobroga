@@ -19,7 +19,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="end" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
+    <img align="end" width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
   </a>
 </div>
 
