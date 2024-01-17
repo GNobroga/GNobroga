@@ -8,15 +8,18 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 - 🚀 Participação em projetos de desenvolvimento web.
 
 ## Estatísticas GitHub
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
-</a>
 
-<hr/>
+<div style="display: flex; gap: 1rem;">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
+  </a>
+</div>
+
 
 ## Conecte-se Comigo
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
