@@ -9,13 +9,19 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 ## Estatísticas GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
-</a>
+<hr/>
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
+  </a>
+</div>
 
 
 ## Conecte-se Comigo
