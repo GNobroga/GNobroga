@@ -11,7 +11,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="max-width: 500px;" width="100%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="max-width: 500px;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
   </a>
 </div>
 
