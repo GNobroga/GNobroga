@@ -10,7 +10,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 ## Estatísticas do GitHub
 
 
-<div align="center">
+<div align="start">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie&hide=html,css" />
 </div>
