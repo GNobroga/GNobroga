@@ -18,26 +18,6 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
 </a>
 
-## Tecnologias que já tive contato
--   HTML
--   CSS
--   JavaScript
--   Typescript
--   Java
--   C#
--  .NET 7
--   Angular
--   React
--   Redux
--   Spring Boot
--   JPA
--   Docker
--   Identity
--   Entity Framework
--   Asp Net
--   Bootstrap
--   Razor
-
 ## Conecte-se Comigo
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
 - [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
