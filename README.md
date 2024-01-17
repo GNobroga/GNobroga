@@ -12,11 +12,11 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 <div style="display: flex; justify-content: space-between;">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=dracula" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie" />
   </a>
 </div>
 
