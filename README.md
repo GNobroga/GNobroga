@@ -22,9 +22,9 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 - [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
 - [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
 
-Faça elevar o cosmo no seu coração ♫
+As asas de um coração sonhador, ninguém irá roubar ♫
 
-![Cavaleiros de ouro 3](https://github.com/GNobroga/GNobroga/assets/88632109/ec2b197b-eebb-433f-8926-76d71f8fcd65)
+![3a229223c3534b54b827dcd8a2444d25](https://github.com/GNobroga/GNobroga/assets/88632109/31cdedbc-3a06-4d88-8f7c-0e3e2f6cd279)
 
 
 
