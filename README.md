@@ -16,7 +16,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 </div>
 
 <div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
 
 
