@@ -39,6 +39,12 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 ##
 
+<div>
+  <a href="https://www.youtube.com/@gabrielcardosogirarde7515">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+</div>
+
 As asas de um coração sonhador, ninguém irá roubar ♫
 
 ![3a229223c3534b54b827dcd8a2444d25](https://github.com/GNobroga/GNobroga/assets/88632109/31cdedbc-3a06-4d88-8f7c-0e3e2f6cd279)
