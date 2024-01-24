@@ -8,7 +8,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   
 ## Estatísticas
 
-<div align="start" style="display: flex; gap: 1rem;">
+<div align="start" style="display: flex; flex-direction: column; gap: 1rem;">
   <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
   <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=compact&hide=html,css" />
 </div>
