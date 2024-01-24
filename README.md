@@ -12,7 +12,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div align="start">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie&hide=html,css" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie&hide=html,css" />
 </div>
 
 ## Linguagens e Frameworks 
@@ -28,6 +28,9 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 
