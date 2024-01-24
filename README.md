@@ -11,7 +11,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 <div align="start">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie&hide=html,css" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=pie&hide=html,css&hide_progress=true" />
 </div>
 
 ## Tecnologias 
