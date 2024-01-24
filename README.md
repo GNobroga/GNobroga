@@ -4,14 +4,13 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 
 ## Sobre Mim
 - 💻 Estou constantemente explorando novas tecnologias.
-- 🎓 Cursando Sistemas de Informação no IFES.
-- 🚀 Participação em projetos de desenvolvimento web.
-- 
+- 🎓 Cursando Sistemas de Informação.
+  
 ## Estatísticas
 
-<div align="start"  style="display: flex; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=compact&hide=html,css" />
+<div align="start" style="display: flex; gap: 1rem;">
+  <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
+  <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=compact&hide=html,css" />
 </div>
 
 ## Tecnologias 
