@@ -7,6 +7,10 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 - 🎓 Cursando Sistemas de Informação no IFES.
 - 🚀 Participação em projetos de desenvolvimento web.
 
+## Redes Sociais
+- [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
+- [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
+- 
 ## Estatísticas do GitHub
 
 
@@ -33,10 +37,6 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
-
-## Conecte-se Comigo
-- [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
-- [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
 
 As asas de um coração sonhador, ninguém irá roubar ♫
 
