@@ -37,6 +37,7 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
+##
 
 As asas de um coração sonhador, ninguém irá roubar ♫
 
