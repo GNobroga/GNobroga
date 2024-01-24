@@ -6,13 +6,8 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 - 💻 Estou constantemente explorando novas tecnologias.
 - 🎓 Cursando Sistemas de Informação no IFES.
 - 🚀 Participação em projetos de desenvolvimento web.
-
-## Redes Sociais
-- [LinkedIn](www.linkedin.com/in/gabriel-cardoso-30ba421bb)
-- [Youtube](https://www.youtube.com/channel/UCoRDkB6fdAsTLFds8ayTO4g)
 - 
-## Estatísticas do GitHub
-
+## Estatísticas
 
 <div align="start">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
@@ -42,6 +37,9 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 <div>
   <a href="https://www.youtube.com/@gabrielcardosogirarde7515">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+   <a href="www.linkedin.com/in/gabriel-cardoso-girarde">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
 
