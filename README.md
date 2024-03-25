@@ -9,11 +9,10 @@ Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de 
 ## Estatísticas
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GNobroga&show_icons=true&theme=alguma-opcao-de-tema&icon_color=blue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=compact&hide=html,css" />
 </div>
-<div>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNobroga&layout=compact&hide=html,css" />
-</div>
+
 
 ## Tecnologias 
 
