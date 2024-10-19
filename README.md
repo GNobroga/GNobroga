@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil ✌️
 
-Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de Cachoeiro de Itapemirim, atualmente no sétimo período. Apaixonado por tecnologia, estou sempre buscando aprender e aprimorar minhas habilidades no desenvolvimento de sistemas web.
+Olá, eu sou Gabriel, estudante de Sistemas de Informação no IFES - Campus de Cachoeiro de Itapemirim, atualmente no oitavo período. Apaixonado por tecnologia, estou sempre buscando aprender e aprimorar minhas habilidades no desenvolvimento de sistemas web.
 
 ## Sobre Mim
 - 💻 Estou constantemente explorando novas tecnologias.
